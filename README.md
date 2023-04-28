@@ -1,2 +1,2 @@
-# WebBand-Project
-This is web band project
+# WebBrand-Project
+This is web brand project
